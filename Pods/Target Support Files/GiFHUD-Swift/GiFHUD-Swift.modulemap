@@ -1,0 +1,6 @@
+framework module GiFHUD_Swift {
+  umbrella header "GiFHUD-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

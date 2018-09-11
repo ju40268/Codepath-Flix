@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - GiFHUD-Swift (0.3)
+  - Gifu (3.1.0)
+  - PKHUD (5.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.3)
+  - GiFHUD-Swift
+  - Gifu
+  - PKHUD (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - GiFHUD-Swift
+    - Gifu
+    - PKHUD
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  GiFHUD-Swift: 73cc759c387f1ae3d8c7f19f268639dc9720d111
+  Gifu: fd1e9e3a15ac5d90bae0a510e4ed9f94b485ab03
+  PKHUD: 62ea46a1e88c4def1da784878d199bb54c841e3c
+
+PODFILE CHECKSUM: 6771f310910927a2a4a8d4af68c67016f19134a0
+
+COCOAPODS: 1.5.3
